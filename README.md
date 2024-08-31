@@ -5,7 +5,9 @@ The objective of this project is to build a predictive model using linear regres
 numerical outcome based on a dataset with relevant features. Linear regression is a
 fundamental machine learning algorithm, and this project provides hands-on experience in
 developing, evaluating, and interpreting a predictive model.
+
 Key Concepts and Challenges:
+
 1.Data Collection: Obtain a dataset with numerical features and a target variable for
 prediction.
 
